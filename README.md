@@ -38,10 +38,10 @@
 
 How the desk runs it:
 
-- 🔎 **Research agents** watch SOL, the higher timeframes, and the news, and flag setups.
+- 🔎 **Research agents**: Rowe runs the TJR scan and writes the bias sheet, Voss watches the tape and the red-folder calendar, Jules marks levels.
 - 🧠 **Boss, the confluence gate**: a ticket only moves when the HTF bias and all 3 confirms line up.
 - 📒 **Atlas, the paper perps book**: takes gated setups on paper with a real stop, so every idea has a record.
-- 🧾 **Reviewer**: checks each ticket and the paper record, so mistakes get caught before they repeat.
+- 🧾 **Quill, the reviewer**: grades the paper book for process, not P&L.
 - 🔔 **Alerts**: a phone ping when a gated SOL perp ticket is ready.
 - ✋ **Human-only execution**: no agent places a live order. I decide, and I click.
 
