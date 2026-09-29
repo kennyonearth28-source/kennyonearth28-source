@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Kenny 👋</h1>
 
-<h3 align="center">I build <a href="https://soldesk.fun">SOL Desk</a>: a Solana perps trading desk run by a team of AI agents.<br/>The agents do the research. I make every live click.</h3>
+<h3 align="center">Just a normal guy building <a href="https://soldesk.fun">SOL Desk</a>: a Solana perps trading desk run by a team of AI agents.<br/>The agents do the research. I make every live click.</h3>
 
 <p align="center">
   <a href="https://soldesk.fun">
@@ -19,6 +19,7 @@
 
 ### 🧭 About me
 
+- 🙋 I'm just a normal guy, not a fund and not a pro trader. I've got a day job, and I build this after work, learning as I go.
 - 🛠️ I'm building **SOL Desk**, a desk for SOL perpetuals staffed by AI agents: research, a confluence gate, a paper trader, and a reviewer.
 - 🤖 The agents read the chart, score the setup, paper it, and review it. They never sign a transaction.
 - 🖱️ Every live trade is a human click from a connected wallet.
@@ -87,4 +88,4 @@ How the desk runs it:
 
 ---
 
-<p align="center"><sub>Not financial advice.</sub></p>
+<p align="center"><sub>Not financial advice. Just a normal guy sharing what he's building.</sub></p>
